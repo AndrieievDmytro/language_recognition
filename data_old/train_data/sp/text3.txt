@@ -1,0 +1,11 @@
+Los materiales cerámicos son generalmente frágiles o vidriosos. Casi siempre se fracturan ante esfuerzos de tensión y presentan poca elasticidad, dado que tienden a ser materiales porosos. Los poros y otras imperfecciones microscópicas actúan como entallas o concentradores de esfuerzo, reduciendo la resistencia a los esfuerzos mencionados.
+
+El módulo de elasticidad alcanza valores bastante altos del orden de 311 GPa en el caso del carburo de titanio (TiC). El valor del módulo de elasticidad depende de la temperatura, disminuyendo de forma no lineal al aumentar ésta.
+
+Estos materiales muestran deformaciones plásticas. Sin embargo, debido a la rigidez de la estructura de los componentes cristalinos hay pocos sistemas de deslizamientos para dislocaciones de movimiento y la deformación ocurre de forma muy lenta. Con los materiales no cristalinos (vidriosos), la fluidez viscosa es la principal causa de la deformación plástica, y también es muy lenta. Aun así, es omitido en muchas aplicaciones de materiales cerámicos.
+
+Tienen elevada resistencia a la compresión si la comparamos con los metales incluso a temperaturas altas (hasta 1500 °C). Bajo cargas de compresión las grietas incipientes tienden a cerrarse, mientras que bajo cargas de tracción o cizalladura las grietas tienden a separarse, dando lugar a la fractura.
+
+Los valores de tenacidad de fractura en los materiales cerámicos son muy bajos (apenas sobrepasan el valor de 1 MPa.m1/2), valores que pueden ser aumentados considerablemente mediante métodos como el reforzamiento mediante fibras o la transformación de fase en circonia.
+
+Una propiedad importante es el mantenimiento de las propiedades mecánicas a altas temperaturas. Su gran dureza los hace un material ampliamente utilizado como abrasivo y como puntas cortantes de herramientas.

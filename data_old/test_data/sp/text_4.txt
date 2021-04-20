@@ -1,0 +1,7 @@
+Epidemia (del griego epi, por sobre y demos, pueblo) es una descripción en la salud comunitaria que ocurre cuando una enfermedad infecta a un número de individuos superior al esperado en una población durante un tiempo determinado. Para evitar el sensacionalismo que conlleva esta palabra, en ocasiones se utiliza el sinónimo del brote epidémico o brote.1​
+
+En la actualidad el concepto es una relación entre una línea de base de una enfermedad, que puede ser la prevalencia o incidencia normales, y el número de casos que se detectan en un momento dado. En este sentido, si una comunidad se encuentra libre de una determinada enfermedad, un solo caso constituye una epidemia. En otras palabras, es un incremento significativamente elevado en el número de casos de una enfermedad con respecto al número de casos esperados.
+
+En el caso de que la epidemia se difundiera por varias regiones geográficas extensas de varios continentes o incluso de todo el mundo, se trataría de una pandemia. En caso de enfermedades que afectan en una zona mantenida en el tiempo, se trataría de una endemia.
+
+El ritmo reproductivo básico en el modelo SIR simple es
